@@ -6,3 +6,4 @@ Some useful website links on the internet.
 3. HTML special characters' codes - https://dev.w3.org/html5/html-author/charref
 4. CSS fonts - https://www.cssfontstack.com/
 5. color themes - https://coolors.co/
+6. css specificity calculator - https://specificity.keegan.st/
