@@ -7,3 +7,4 @@ Some useful website links on the internet.
 4. CSS fonts - https://www.cssfontstack.com/
 5. color themes - https://coolors.co/
 6. css specificity calculator - https://specificity.keegan.st/
+7. css transitions - easing functions - https://easings.net/
