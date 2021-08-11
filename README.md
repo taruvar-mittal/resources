@@ -1,4 +1,4 @@
-# resources
+# Resources
 Some useful website links on the internet.
 
 1. Unsplash - https://unsplash.com/ - images collection
