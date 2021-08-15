@@ -8,3 +8,4 @@ Some useful website links on the internet.
 5. color themes - https://coolors.co/
 6. css specificity calculator - https://specificity.keegan.st/
 7. css transitions - easing functions - https://easings.net/
+8. css reset - https://meyerweb.com/eric/tools/css/reset/
